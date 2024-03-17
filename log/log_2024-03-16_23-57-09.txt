@@ -1,0 +1,586 @@
+2024-03-16 23:57:09,238 - INFO - Started Preprocessing
+2024-03-16 23:57:12,161 - INFO - Decryption started
+2024-03-16 23:57:12,162 - INFO - Decryption started
+2024-03-16 23:57:12,162 - INFO - Decryption started
+2024-03-16 23:57:12,163 - INFO - Decryption started
+2024-03-16 23:57:24,149 - INFO - Decryption is completed successfully
+2024-03-16 23:57:24,150 - INFO - Hashing started
+2024-03-16 23:57:29,601 - INFO - Decryption is completed successfully
+2024-03-16 23:57:29,601 - INFO - Hashing started
+2024-03-16 23:57:34,268 - INFO - Decryption is completed successfully
+2024-03-16 23:57:34,279 - INFO - Hashing started
+2024-03-16 23:57:38,671 - INFO - Decryption is completed successfully
+2024-03-16 23:57:38,672 - INFO - Hashing started
+2024-03-16 23:58:45,693 - INFO - Hashing is completed successfully
+2024-03-16 23:58:45,696 - INFO - UUID Generation started
+2024-03-16 23:58:45,717 - INFO - Generated UUID and merged successfully
+2024-03-16 23:58:52,334 - INFO - Hashing is completed successfully
+2024-03-16 23:58:52,337 - INFO - UUID Generation started
+2024-03-16 23:58:52,342 - INFO - Hashing is completed successfully
+2024-03-16 23:58:52,346 - INFO - UUID Generation started
+2024-03-16 23:58:52,358 - INFO - Generated UUID and merged successfully
+2024-03-16 23:58:52,362 - INFO - Generated UUID and merged successfully
+2024-03-16 23:58:59,571 - INFO - JSON file saved successfully
+2024-03-16 23:59:10,500 - INFO - Hashing is completed successfully
+2024-03-16 23:59:10,504 - INFO - UUID Generation started
+2024-03-16 23:59:10,514 - INFO - Generated UUID and merged successfully
+2024-03-16 23:59:12,126 - INFO - JSON file saved successfully
+2024-03-16 23:59:20,170 - INFO - JSON file saved successfully
+2024-03-16 23:59:24,768 - INFO - JSON file saved successfully
+2024-03-16 23:59:27,800 - INFO - QC file saved successfully
+2024-03-16 23:59:27,800 - INFO - Quality check is performed successfully
+2024-03-16 23:59:49,280 - INFO - QC file saved successfully
+2024-03-16 23:59:49,280 - INFO - Quality check is performed successfully
+2024-03-17 00:00:10,777 - INFO - QC file saved successfully
+2024-03-17 00:00:10,777 - INFO - Quality check is performed successfully
+2024-03-17 00:00:31,851 - INFO - QC file saved successfully
+2024-03-17 00:00:31,851 - INFO - Quality check is performed successfully
+2024-03-17 00:00:31,852 - INFO - Completed Preprocessing
+2024-03-17 00:00:32,956 - INFO - Error while sending.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-17 00:00:32,957 - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-03-17 00:00:32,957 - INFO - Error while sending.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-17 00:00:32,958 - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-03-17 00:00:32,958 - INFO - Error while sending.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-17 00:00:32,958 - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-03-17 00:00:32,959 - INFO - Error while sending.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-03-17 00:00:32,959 - INFO - Exception while sending command.
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+2024-03-17 00:00:34,969 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1193, in send_command
+    self.socket.sendall(command.encode("utf-8"))
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1033, in send_command
+    response = connection.send_command(command)
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1197, in send_command
+    "Error while sending", e, proto.ERROR_ON_SEND)
+py4j.protocol.Py4JNetworkError: Error while sending
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:36,990 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:39,022 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:41,033 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:43,066 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:45,097 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:47,129 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:49,149 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:51,184 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:53,193 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:55,240 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:57,274 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:00:59,308 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:01:01,332 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:01:03,378 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:01:05,404 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:01:07,450 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-03-17 00:01:09,496 - ERROR - An error occurred while trying to connect to the Java server (127.0.0.1:56442)
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 977, in _get_connection
+    connection = self.deque.pop()
+IndexError: pop from an empty deque
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\RAKI\PycharmProjects\VisaPreProcessing\PreProcessingFWK\.venv\lib\site-packages\py4j\java_gateway.py", line 1115, in start
+    self.socket.connect((self.address, self.port))
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it

@@ -1,0 +1,29 @@
+2024-03-16 23:31:51,099 - INFO - Started Preprocessing
+2024-03-16 23:31:54,065 - INFO - Decryption started
+2024-03-16 23:31:54,065 - INFO - Decryption started
+2024-03-16 23:31:54,065 - INFO - Decryption started
+2024-03-16 23:32:06,587 - INFO - Decryption is completed successfully
+2024-03-16 23:32:06,587 - INFO - Hashing started
+2024-03-16 23:32:09,944 - INFO - Decryption is completed successfully
+2024-03-16 23:32:09,946 - INFO - Hashing started
+2024-03-16 23:32:11,949 - INFO - Decryption is completed successfully
+2024-03-16 23:32:11,949 - INFO - Hashing started
+2024-03-16 23:33:04,341 - INFO - Hashing is completed successfully
+2024-03-16 23:33:04,345 - INFO - UUID Generation started
+2024-03-16 23:33:04,362 - INFO - Generated UUID and merged successfully
+2024-03-16 23:33:12,024 - INFO - Hashing is completed successfully
+2024-03-16 23:33:12,028 - INFO - UUID Generation started
+2024-03-16 23:33:12,035 - INFO - Hashing is completed successfully
+2024-03-16 23:33:12,039 - INFO - UUID Generation started
+2024-03-16 23:33:12,051 - INFO - Generated UUID and merged successfully
+2024-03-16 23:33:12,055 - INFO - Generated UUID and merged successfully
+2024-03-16 23:33:19,640 - INFO - JSON file saved successfully
+2024-03-16 23:33:32,507 - INFO - JSON file saved successfully
+2024-03-16 23:33:34,558 - INFO - JSON file saved successfully
+2024-03-16 23:33:37,679 - INFO - QC file saved successfully
+2024-03-16 23:33:37,679 - INFO - Quality check is performed successfully
+2024-03-16 23:33:53,676 - INFO - QC file saved successfully
+2024-03-16 23:33:53,676 - INFO - Quality check is performed successfully
+2024-03-16 23:34:09,556 - INFO - QC file saved successfully
+2024-03-16 23:34:09,556 - INFO - Quality check is performed successfully
+2024-03-16 23:34:09,556 - INFO - Completed Preprocessing

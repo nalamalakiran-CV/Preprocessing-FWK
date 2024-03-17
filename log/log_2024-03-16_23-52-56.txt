@@ -1,0 +1,38 @@
+2024-03-16 23:52:56,551 - INFO - Started Preprocessing
+2024-03-16 23:52:59,659 - INFO - Decryption started
+2024-03-16 23:52:59,659 - INFO - Decryption started
+2024-03-16 23:52:59,660 - INFO - Decryption started
+2024-03-16 23:52:59,660 - INFO - Decryption started
+2024-03-16 23:53:13,163 - INFO - Decryption is completed successfully
+2024-03-16 23:53:13,164 - INFO - Hashing started
+2024-03-16 23:53:17,477 - INFO - Decryption is completed successfully
+2024-03-16 23:53:17,478 - INFO - Hashing started
+2024-03-16 23:53:21,730 - INFO - Decryption is completed successfully
+2024-03-16 23:53:21,740 - INFO - Hashing started
+2024-03-16 23:53:30,179 - INFO - Decryption is completed successfully
+2024-03-16 23:53:30,179 - INFO - Hashing started
+2024-03-16 23:54:35,085 - INFO - Hashing is completed successfully
+2024-03-16 23:54:35,088 - INFO - UUID Generation started
+2024-03-16 23:54:35,105 - INFO - Generated UUID and merged successfully
+2024-03-16 23:54:46,100 - INFO - JSON file saved successfully
+2024-03-16 23:54:49,106 - INFO - Hashing is completed successfully
+2024-03-16 23:54:49,110 - INFO - UUID Generation started
+2024-03-16 23:54:49,126 - INFO - Generated UUID and merged successfully
+2024-03-16 23:54:52,165 - INFO - Hashing is completed successfully
+2024-03-16 23:54:52,168 - INFO - UUID Generation started
+2024-03-16 23:54:52,180 - INFO - Generated UUID and merged successfully
+2024-03-16 23:54:56,142 - INFO - Hashing is completed successfully
+2024-03-16 23:54:56,147 - INFO - UUID Generation started
+2024-03-16 23:54:56,159 - INFO - Generated UUID and merged successfully
+2024-03-16 23:55:07,633 - INFO - JSON file saved successfully
+2024-03-16 23:55:16,477 - INFO - JSON file saved successfully
+2024-03-16 23:55:19,699 - INFO - QC file saved successfully
+2024-03-16 23:55:19,699 - INFO - Quality check is performed successfully
+2024-03-16 23:55:20,180 - INFO - JSON file saved successfully
+2024-03-16 23:55:41,042 - INFO - QC file saved successfully
+2024-03-16 23:55:41,042 - INFO - Quality check is performed successfully
+2024-03-16 23:56:02,784 - INFO - QC file saved successfully
+2024-03-16 23:56:02,784 - INFO - Quality check is performed successfully
+2024-03-16 23:56:24,099 - INFO - QC file saved successfully
+2024-03-16 23:56:24,099 - INFO - Quality check is performed successfully
+2024-03-16 23:56:24,099 - INFO - Completed Preprocessing

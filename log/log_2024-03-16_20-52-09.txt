@@ -1,0 +1,19 @@
+2024-03-16 20:52:09,743 - INFO - Started Preprocessing
+2024-03-16 20:52:13,340 - INFO - Decryption started
+2024-03-16 20:52:13,340 - INFO - Decryption started
+2024-03-16 20:52:25,951 - INFO - Decryption is completed successfully
+2024-03-16 20:52:25,952 - INFO - Hashing started
+2024-03-16 20:52:34,162 - INFO - Decryption is completed successfully
+2024-03-16 20:52:34,163 - INFO - Hashing started
+2024-03-16 20:53:57,387 - INFO - Hashing is completed successfully
+2024-03-16 20:53:57,390 - INFO - UUID Generation started
+2024-03-16 20:53:57,423 - INFO - Generated UUID and merged successfully
+2024-03-16 20:54:09,804 - INFO - Hashing is completed successfully
+2024-03-16 20:54:09,809 - INFO - UUID Generation started
+2024-03-16 20:54:09,831 - INFO - Generated UUID and merged successfully
+2024-03-16 20:54:18,364 - INFO - JSON file saved successfully
+2024-03-16 20:54:23,682 - INFO - JSON file saved successfully
+2024-03-16 20:54:40,799 - INFO - QC file saved successfully
+2024-03-16 20:54:40,799 - INFO - Quality check is performed successfully
+2024-03-16 20:54:44,882 - ERROR - Error Occured: path file:/C:/Users/RAKI/PycharmProjects/VisaPreProcessing/PreProcessingFWK/Output/QualityCheck/part-00000-e1362662-1921-474f-8396-1452e9612784-c000_QCOutput already exists.;
+2024-03-16 20:54:44,883 - INFO - Completed Preprocessing
