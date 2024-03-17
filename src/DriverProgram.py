@@ -45,16 +45,16 @@ class DataProcessingDriver:
         spark_session (pyspark.sql.SparkSession): The Spark session object.
         lockvalue (threading.Lock): A lock object to synchronize access to shared resources.
         """
-        # Step 4: Decryption
+        # Step 5: Decryption
         decrypted = FileDecryptor.decryption_entry(conf, spark, file_path)
 
-        # Step 5: Hashing
+        # Step 6: Hashing
         hashed_values = HashingGeneration.hashing_process(spark, conf, decrypted)
 
-        # Step 6: UUID Generation
+        # Step 7: UUID Generation
         UUIDProcessing.generate_time_uuid(spark, conf, file_path, hashed_values)
         with lockvalue:
-            # Step 7: Quality Check
+            # Step 8: Quality Check
             QualityCheckProcessing.quality_check(spark_session, conf, file_path)
 
 
@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
         lock = threading.Lock()
 
-        # Step 8: Multi-threaded data processing
+        # Step 4: Multi-threaded data processing
         # Map the function to the file_paths list using ThreadPool
         pool.map(lambda file_path: data_processing.initiatedriver(file_path, spark, lock), file_paths)
 
