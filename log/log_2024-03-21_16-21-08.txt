@@ -1,0 +1,38 @@
+2024-03-21 16:21:08,604 - INFO - Started Preprocessing
+2024-03-21 16:21:12,014 - INFO - Decryption started
+2024-03-21 16:21:12,015 - INFO - Decryption started
+2024-03-21 16:21:12,016 - INFO - Decryption started
+2024-03-21 16:21:12,015 - INFO - Decryption started
+2024-03-21 16:21:28,691 - INFO - Decryption is completed successfully
+2024-03-21 16:21:28,691 - INFO - Hashing started
+2024-03-21 16:21:30,842 - INFO - Decryption is completed successfully
+2024-03-21 16:21:30,842 - INFO - Hashing started
+2024-03-21 16:21:38,726 - INFO - Decryption is completed successfully
+2024-03-21 16:21:38,737 - INFO - Hashing started
+2024-03-21 16:21:44,101 - INFO - Decryption is completed successfully
+2024-03-21 16:21:44,101 - INFO - Hashing started
+2024-03-21 16:23:42,027 - ERROR - Error Occured: Expecting value: line 1 column 1 (char 0)
+2024-03-21 16:23:42,030 - INFO - UUID Generation started
+2024-03-21 16:23:42,030 - ERROR - Error Occured: 'NoneType' object has no attribute 'withColumn'
+2024-03-21 16:23:42,030 - INFO - Quality Check Started
+2024-03-21 16:23:42,030 - INFO - QC file saved successfully
+2024-03-21 16:23:42,031 - INFO - Quality check is performed successfully
+2024-03-21 16:23:42,168 - ERROR - Error Occured: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-03-21 16:23:42,168 - INFO - UUID Generation started
+2024-03-21 16:23:42,168 - ERROR - Error Occured: 'NoneType' object has no attribute 'withColumn'
+2024-03-21 16:23:42,169 - INFO - Quality Check Started
+2024-03-21 16:23:42,169 - INFO - QC file saved successfully
+2024-03-21 16:23:42,169 - INFO - Quality check is performed successfully
+2024-03-21 16:23:48,813 - ERROR - Error Occured: Expecting value: line 1 column 1 (char 0)
+2024-03-21 16:23:48,817 - INFO - UUID Generation started
+2024-03-21 16:23:48,817 - ERROR - Error Occured: 'NoneType' object has no attribute 'withColumn'
+2024-03-21 16:23:48,817 - INFO - Quality Check Started
+2024-03-21 16:23:48,817 - INFO - QC file saved successfully
+2024-03-21 16:23:48,817 - INFO - Quality check is performed successfully
+2024-03-21 16:23:56,163 - ERROR - Error Occured: Expecting value: line 1 column 1 (char 0)
+2024-03-21 16:23:56,168 - INFO - UUID Generation started
+2024-03-21 16:23:56,168 - ERROR - Error Occured: 'NoneType' object has no attribute 'withColumn'
+2024-03-21 16:23:56,168 - INFO - Quality Check Started
+2024-03-21 16:23:56,169 - INFO - QC file saved successfully
+2024-03-21 16:23:56,169 - INFO - Quality check is performed successfully
+2024-03-21 16:23:56,169 - INFO - Completed Preprocessing

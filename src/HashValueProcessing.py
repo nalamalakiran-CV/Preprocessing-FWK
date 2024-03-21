@@ -66,7 +66,8 @@ class HashingGeneration:
             batch_size = int(conf['apiurl']['batch'])
 
             # Calculate the number of batches
-            num_batches = (decrypted_data.count() // batch_size) + (1 if decrypted_data.count() % batch_size != 0 else 0)
+            num_batches = (decrypted_data.count() // batch_size) + (
+                1 if decrypted_data.count() % batch_size != 0 else 0)
             print(num_batches)
 
             # Specify columns to hash
@@ -82,10 +83,11 @@ class HashingGeneration:
                 batchid = decrypted_data.filter((col("ID") >= start_idx) & (col("ID") < end_idx))
 
                 # Convert batch DataFrame to a list of dictionaries
-                data_batch = [{column: record[column] for column in columns_to_hash + ['ID']} for record in batchid.collect()]
+                data_batch = [{column: record[column] for column in columns_to_hash + ['ID']} for record in
+                              batchid.collect()]
 
                 # Call the hashing function
-                hashed_values = hash_value_creation.send_data_and_get_hash(data_batch, columns_to_hash,conf)
+                hashed_values = hash_value_creation.send_data_and_get_hash(data_batch, columns_to_hash, conf)
 
                 # Create a DataFrame from hashed values
                 hashed_df = spark.createDataFrame(hashed_values)
@@ -101,4 +103,4 @@ class HashingGeneration:
                 return merged_hashed_df
 
         except Exception as e:
-            logging.error(f"Error Occured: {str(e)}")
+            logging.error(f"Error Occurred: {str(e)}")

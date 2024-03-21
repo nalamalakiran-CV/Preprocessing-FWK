@@ -1,0 +1,42 @@
+2024-03-19 13:03:03,601 - INFO - Started Preprocessing
+2024-03-19 13:03:06,936 - INFO - Decryption started
+2024-03-19 13:03:06,937 - INFO - Decryption started
+2024-03-19 13:03:06,938 - INFO - Decryption started
+2024-03-19 13:03:06,939 - INFO - Decryption started
+2024-03-19 13:03:22,574 - INFO - Decryption is completed successfully
+2024-03-19 13:03:22,575 - INFO - Hashing started
+2024-03-19 13:03:26,735 - INFO - Decryption is completed successfully
+2024-03-19 13:03:26,735 - INFO - Hashing started
+2024-03-19 13:03:31,865 - INFO - Decryption is completed successfully
+2024-03-19 13:03:31,874 - INFO - Hashing started
+2024-03-19 13:03:36,978 - INFO - Decryption is completed successfully
+2024-03-19 13:03:36,978 - INFO - Hashing started
+2024-03-19 13:04:56,697 - INFO - Hashing is completed successfully
+2024-03-19 13:04:56,700 - INFO - UUID Generation started
+2024-03-19 13:04:56,720 - INFO - Generated UUID and merged successfully
+2024-03-19 13:05:04,005 - INFO - Hashing is completed successfully
+2024-03-19 13:05:04,008 - INFO - UUID Generation started
+2024-03-19 13:05:04,044 - INFO - Generated UUID and merged successfully
+2024-03-19 13:05:08,965 - INFO - Hashing is completed successfully
+2024-03-19 13:05:08,967 - INFO - UUID Generation started
+2024-03-19 13:05:08,982 - INFO - Generated UUID and merged successfully
+2024-03-19 13:05:18,205 - INFO - Hashing is completed successfully
+2024-03-19 13:05:18,211 - INFO - UUID Generation started
+2024-03-19 13:05:18,230 - INFO - Generated UUID and merged successfully
+2024-03-19 13:05:19,388 - INFO - AVRO file saved successfully
+2024-03-19 13:05:19,389 - INFO - Quality Check Started
+2024-03-19 13:05:30,620 - INFO - AVRO file saved successfully
+2024-03-19 13:05:40,166 - INFO - AVRO file saved successfully
+2024-03-19 13:05:47,217 - INFO - AVRO file saved successfully
+2024-03-19 13:06:03,006 - INFO - QC file saved successfully
+2024-03-19 13:06:03,006 - INFO - Quality check is performed successfully
+2024-03-19 13:06:03,006 - INFO - Quality Check Started
+2024-03-19 13:06:28,310 - INFO - QC file saved successfully
+2024-03-19 13:06:28,310 - INFO - Quality check is performed successfully
+2024-03-19 13:06:28,311 - INFO - Quality Check Started
+2024-03-19 13:06:53,422 - INFO - QC file saved successfully
+2024-03-19 13:06:53,422 - INFO - Quality check is performed successfully
+2024-03-19 13:06:53,423 - INFO - Quality Check Started
+2024-03-19 13:07:18,669 - INFO - QC file saved successfully
+2024-03-19 13:07:18,669 - INFO - Quality check is performed successfully
+2024-03-19 13:07:18,670 - INFO - Completed Preprocessing

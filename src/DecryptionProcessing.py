@@ -103,4 +103,4 @@ class FileDecryptor:
             return df
 
         except Exception as e:
-            logging.error(f"Error Occured: {str(e)}")
+            logging.error(f"Error Occurred: {str(e)}")

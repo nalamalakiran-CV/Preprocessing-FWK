@@ -1,0 +1,42 @@
+2024-03-19 12:45:37,997 - INFO - Started Preprocessing
+2024-03-19 12:45:41,368 - INFO - Decryption started
+2024-03-19 12:45:41,368 - INFO - Decryption started
+2024-03-19 12:45:41,370 - INFO - Decryption started
+2024-03-19 12:45:41,371 - INFO - Decryption started
+2024-03-19 12:45:56,483 - INFO - Decryption is completed successfully
+2024-03-19 12:45:56,483 - INFO - Hashing started
+2024-03-19 12:46:01,911 - INFO - Decryption is completed successfully
+2024-03-19 12:46:01,911 - INFO - Hashing started
+2024-03-19 12:46:07,123 - INFO - Decryption is completed successfully
+2024-03-19 12:46:07,133 - INFO - Hashing started
+2024-03-19 12:46:12,181 - INFO - Decryption is completed successfully
+2024-03-19 12:46:12,181 - INFO - Hashing started
+2024-03-19 12:47:36,596 - INFO - Hashing is completed successfully
+2024-03-19 12:47:36,599 - INFO - UUID Generation started
+2024-03-19 12:47:36,631 - INFO - Generated UUID and merged successfully
+2024-03-19 12:47:50,232 - INFO - AVRO file saved successfully
+2024-03-19 12:47:50,232 - INFO - Quality Check Started
+2024-03-19 12:47:54,006 - INFO - Hashing is completed successfully
+2024-03-19 12:47:54,013 - INFO - UUID Generation started
+2024-03-19 12:47:54,033 - INFO - Generated UUID and merged successfully
+2024-03-19 12:48:02,179 - INFO - Hashing is completed successfully
+2024-03-19 12:48:02,182 - INFO - UUID Generation started
+2024-03-19 12:48:02,196 - INFO - Generated UUID and merged successfully
+2024-03-19 12:48:03,903 - INFO - Hashing is completed successfully
+2024-03-19 12:48:03,907 - INFO - UUID Generation started
+2024-03-19 12:48:03,920 - INFO - Generated UUID and merged successfully
+2024-03-19 12:48:16,765 - INFO - AVRO file saved successfully
+2024-03-19 12:48:26,266 - INFO - AVRO file saved successfully
+2024-03-19 12:48:30,605 - INFO - QC file saved successfully
+2024-03-19 12:48:30,605 - INFO - Quality check is performed successfully
+2024-03-19 12:48:30,606 - INFO - Quality Check Started
+2024-03-19 12:48:32,388 - INFO - AVRO file saved successfully
+2024-03-19 12:48:56,426 - INFO - QC file saved successfully
+2024-03-19 12:48:56,426 - INFO - Quality check is performed successfully
+2024-03-19 12:48:56,427 - INFO - Quality Check Started
+2024-03-19 12:49:21,781 - INFO - QC file saved successfully
+2024-03-19 12:49:21,781 - INFO - Quality check is performed successfully
+2024-03-19 12:49:21,782 - INFO - Quality Check Started
+2024-03-19 12:49:48,420 - INFO - QC file saved successfully
+2024-03-19 12:49:48,420 - INFO - Quality check is performed successfully
+2024-03-19 12:49:48,420 - INFO - Completed Preprocessing

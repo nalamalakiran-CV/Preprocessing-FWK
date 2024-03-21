@@ -1,0 +1,34 @@
+2024-03-21 15:47:15,656 - INFO - Started Preprocessing
+2024-03-21 15:47:19,072 - INFO - Decryption started
+2024-03-21 15:47:19,072 - INFO - Decryption started
+2024-03-21 15:47:19,074 - INFO - Decryption started
+2024-03-21 15:47:19,074 - INFO - Decryption started
+2024-03-21 15:47:34,910 - INFO - Decryption is completed successfully
+2024-03-21 15:47:34,911 - INFO - Hashing started
+2024-03-21 15:47:39,498 - INFO - Decryption is completed successfully
+2024-03-21 15:47:39,498 - INFO - Hashing started
+2024-03-21 15:47:45,443 - INFO - Decryption is completed successfully
+2024-03-21 15:47:45,458 - INFO - Hashing started
+2024-03-21 15:47:50,592 - INFO - Decryption is completed successfully
+2024-03-21 15:47:50,592 - INFO - Hashing started
+2024-03-21 15:49:20,877 - INFO - Hashing is completed successfully
+2024-03-21 15:49:20,881 - INFO - UUID Generation started
+2024-03-21 15:49:20,916 - INFO - Generated UUID and merged successfully
+2024-03-21 15:49:33,897 - INFO - Hashing is completed successfully
+2024-03-21 15:49:33,901 - INFO - UUID Generation started
+2024-03-21 15:49:33,919 - INFO - Generated UUID and merged successfully
+2024-03-21 15:49:35,229 - INFO - AVRO file saved successfully
+2024-03-21 15:49:35,229 - INFO - Quality Check Started
+2024-03-21 15:49:46,121 - INFO - Hashing is completed successfully
+2024-03-21 15:49:46,126 - INFO - UUID Generation started
+2024-03-21 15:49:46,142 - INFO - Generated UUID and merged successfully
+2024-03-21 15:49:48,130 - INFO - Hashing is completed successfully
+2024-03-21 15:49:48,134 - INFO - UUID Generation started
+2024-03-21 15:49:48,149 - INFO - Generated UUID and merged successfully
+2024-03-21 15:49:53,017 - INFO - AVRO file saved successfully
+2024-03-21 15:49:53,017 - INFO - Quality Check Started
+2024-03-21 15:50:08,237 - INFO - AVRO file saved successfully
+2024-03-21 15:50:08,237 - INFO - Quality Check Started
+2024-03-21 15:50:11,674 - INFO - AVRO file saved successfully
+2024-03-21 15:50:11,674 - INFO - Quality Check Started
+2024-03-21 15:50:12,578 - INFO - Completed Preprocessing
